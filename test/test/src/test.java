@@ -1,6 +1,6 @@
 /*
  * test
- * great comment from a great developer. yéah
+ * great comment from a great developer. yÃ©ah in utf-8
  */
 public class test {
 
