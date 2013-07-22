@@ -6,7 +6,7 @@ public class test {
 	private String strVer;
 	public test() 
 	{
-		this.strVer = "Implementation 1";
+		this.strVer = "Implementation 1" + " - great";
 	}
 	
 }
