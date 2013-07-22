@@ -19,7 +19,7 @@ public class BenchMethods
 		// Récupération de l'heure de lancement du test en ms
 		long startTime = System.currentTimeMillis();
 
-		// Boucle de calcul tant que 1000 msec (duration parameter) ne se sont pas écoulées.
+		// Boucle de calcul tant que 1000 msec (paramètre duration ) ne se sont pas écoulées.
 		do
 		{
 			x=123;
